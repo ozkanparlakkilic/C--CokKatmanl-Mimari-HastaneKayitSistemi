@@ -1,0 +1,15 @@
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.DataAccess.dll.config
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.DataAccess.dll
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.DataAccess.pdb
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.Entities.dll
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.Entities.pdb
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\HastaneInfo.Entities.dll.config
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\obj\Debug\HastaneInfo.DataAccess.csprojAssemblyReference.cache
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\obj\Debug\HastaneInfo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\obj\Debug\HastaneInfo.DataAccess.csproj.CopyComplete
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\obj\Debug\HastaneInfo.DataAccess.dll
+C:\Users\OzkanParlakkilic\source\repos\HastaneInfo\HastaneInfo.DataAccess\obj\Debug\HastaneInfo.DataAccess.pdb
