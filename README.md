@@ -1,1 +1,1 @@
-# C--CokKatmanl-Mimari-HastaneKayitSistemi
+# CSharp-CokKatmanli-Mimari-HastaneKayitSistemi
